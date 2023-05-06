@@ -1,0 +1,7 @@
+navbar-hero-img-dark-fg-light
+hero-left-light-fg-dark
+hero-right-light-fg-dark
+profile-card-light-fg-dark
+service-dark-fg-light
+contact-form-dark-fg-cyan
+footer-2-light-fg-dark

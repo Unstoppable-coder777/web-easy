@@ -1,0 +1,6 @@
+You need to install the requirements by just typing : 
+	
+	pip install -r requirements.txt
+
+NOTE : it only works when you are in current directory that means /web_easy/
+
