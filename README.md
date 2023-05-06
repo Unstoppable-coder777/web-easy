@@ -18,4 +18,4 @@ Check The Website <a href="https://webeasy.netlify.app/" >webeasy.netlify.app</a
 
 ScreenShots : 
 
-<img src="./screenshots/code.png">
+<img src="./screenshots/code.png" width="100%">
